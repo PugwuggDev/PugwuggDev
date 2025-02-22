@@ -3,5 +3,4 @@
 - 👀 I’m interested in Coding & Minecraft
 - 🌱 I’m currently learning CSS
 - 📫 Contact me via discord Pugwugg_Dev
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: Im a pro coder!
