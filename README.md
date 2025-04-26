@@ -36,11 +36,11 @@
 
 ## My Links
 
-- [My Website](https://pugwugg.dev/) *Coming Soon*
 - [GitHub](https://github.com/PugwuggDev)
+- [My Website](https://pugwugg.dev/) *Coming Soon*
 - [KineticMC Website](https://kineticmc.net) *Currently Down*
-- [KineticMC Discord](https://discord.gg/kineticmc) *Currently Down*
-- [KineticMC Status](status.kineticmc.net) *Currently Down*
-- [KineticMC Applications](https://applications.kineticmc.net) *Currently Down*
-- [KineticMC Changelogs](https://changelog.kineticmc.net) *Currently Down*
-- [KineticMC Appeals](https://appeal.kineticmc.net) *Currently Down*
+- [KineticMC Discord](https://discord.gg/kineticmc)
+- [KineticMC Status](status.kineticmc.net)
+- [KineticMC Applications](https://applications.kineticmc.net)
+- [KineticMC Changelogs](https://changelog.kineticmc.net) 
+- [KineticMC Appeals](https://appeal.kineticmc.net)
