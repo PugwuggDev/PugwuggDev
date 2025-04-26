@@ -12,11 +12,11 @@
 - 🌐 Data Protection.
 
 ## **ℹ️ Information**
-⚠️ Please **DO NOT** contact me regarding KineticMC Punishment Appeals, Appeal link is below.
-🌱 I’m currently **NOT** accepting any more commissions / server work
-👀 I Love Coding & Twitch Moderating
-⚡ Fun fact: The world is round!
-📫 Contact me via discord **Pugwugg_Dev**
+- ⚠️ Please **DO NOT** contact me regarding KineticMC Punishment Appeals, Appeal link is below.
+- 🌱 I’m currently **NOT** accepting any more commissions / server work
+- 👀 I Love Coding & Twitch Moderating
+- ⚡ Fun fact: The world is round!
+- 📫 Contact me via discord **Pugwugg_Dev**
 
 ## **🌐 Current Servers**
 - 👑 Owner / 🛠️ Head of Development @ KineticMC Networks *Currently **ON HOLD***
