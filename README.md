@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pugwugg
+# 👋 Hi, I’m Pugwugg
 
 - 🛠️ Lead Developer,
 - 💼 Staff Management,
@@ -14,14 +14,14 @@
 ⚡ Fun fact: The world is round!
 📫 Contact me via discord **Pugwugg_Dev**
 
-**Current Servers**
+## **Current Servers**
 - 💞 Owner / Head of Development @ KineticMC Networks *Currently **ON HOLD***
 - 🛡️ Community Coordinator / Developer @ *Hidden* (FiveM)
 - 🛠️ Community Coordinator / Head Developer @ *Hidden* (Minecraft)
 - 🛠️ Developer @ *Hidden* (Minecraft)
 - 🛠️ Developer @ *Hidden* (Garry's Mod)
 
-**Ex Servers**
+## **Ex Servers**
 - 🔧 Ex Owner / Head Of Development @ ElixirPvP (Minecraft)
 - 🔧 Ex Owner / Human Resource @ Athmos Roleplay (Garrys Mod)
 - 🔧 Ex Human Resource @ Vanguard Servers (Garrys Mod)
@@ -33,4 +33,4 @@
 - ⭐️ Ex Head Administrator @ Unreal Roleplay (Garrys Mod)
 - ℹ️ Ex Moderator @ SunnysideRP (Garrys Mod)
 
-### Test
+### Links
