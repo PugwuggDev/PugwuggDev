@@ -21,7 +21,7 @@
 ## **🌐 Current Servers**
 - 👑 Owner / 🛠️ Head of Development @ KineticMC Networks *Currently **ON HOLD***
 - 🛡️ Community Coordinator / 🔧 Developer @ *Hidden* (FiveM)
-- 🛡️ Community Coordinator / 🛠️ Head Developer @ *Hidden* (Minecraft)
+- 🛡️ Community Manager / 🛠️ Head Developer @ *Hidden* (FiveM)
 - 🔧 Developer @ *Hidden* (Minecraft)
 - 🔧 Developer @ *Hidden* (Garry's Mod)
 
