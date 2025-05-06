@@ -26,6 +26,8 @@
 - 🔧 Developer @ *Hidden* (Garry's Mod)
 
 ## **🌟 Past Servers**
+- 👑 Ex CEO / Lead Engineer @ SecureNode Hosting LTD
+- 👑 Ex COO / Engineer @ Byte Hosting
 - 🔧 Ex Owner / Head Of Development @ ElixirPvP (Minecraft)
 - 🔧 Ex Owner / Human Resource @ Athmos Roleplay (Garrys Mod)
 - 🔧 Ex Human Resource @ Vanguard Servers (Garrys Mod)
