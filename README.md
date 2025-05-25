@@ -18,6 +18,8 @@
 - ⚡ Fun fact: The world is round!
 - 📫 Contact me via discord **Pugwugg_Dev**
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pugwuggdev&theme=dark" alt="pugwuggdev" /></p>
+
 ## **🌐 Current Servers**
 - 👑 Owner / 🛠️ Head of Development @ KineticMC Networks *Currently **ON HOLD***
 - 🛡️ Community Coordinator / 🔧 Developer @ *Hidden* (FiveM)
@@ -48,5 +50,3 @@
 - [KineticMC Applications](https://applications.kineticmc.net)
 - [KineticMC Changelogs](https://changelog.kineticmc.net) 
 - [KineticMC Appeals](https://appeal.kineticmc.net)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pugwuggdev&theme=dark" alt="pugwuggdev" /></p>
