@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Pugwugg <p align="left"> <img src="https://komarev.com/ghpvc/?username=pugwuggdev&label=Profile%20views&color=fb00ff&style=flat" alt="pugwuggdev" /> </p>
+# 👋 Hi, I’m Pugwugg <img src="https://komarev.com/ghpvc/?username=pugwuggdev&label=Profile%20views&color=fb00ff&style=flat" alt="pugwuggdev" />
 
 ## ❓ What can i do?
 - 🔧 Developer,
