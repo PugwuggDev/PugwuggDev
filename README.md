@@ -21,7 +21,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pugwuggdev&theme=dark" alt="pugwuggdev" /></p>
 
 ## **🌐 Current Servers**
-- 👑 Owner / 🛠️ Head of Development @ KineticMC Networks *Currently **ON HOLD***
+- 👑 Owner / 🛠️ Head of Development @ KineticMC Networks
 - 🛡️ Community Coordinator / 🔧 Developer @ *Hidden* (FiveM)
 - 🔧 Developer @ *Hidden* (Minecraft)
 - 🔧 Developer @ *Hidden* (Garry's Mod)
