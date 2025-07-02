@@ -23,8 +23,9 @@
 ## **🌐 Current Servers**
 - 👑 Owner / 🛠️ Head of Development @ KineticMC Networks
 - 🛡️ Community Coordinator / 🔧 Developer @ *Hidden* (FiveM)
+- 🛡️ Community Coordinator @ MineSurge
+- 🛡️ Community Coordinator @ BunnyMC
 - 🔧 Developer @ *Hidden* (Minecraft)
-- 🔧 Developer @ *Hidden* (Garry's Mod)
 
 ## **🌟 Past Servers**
 - 👑 Ex CEO / Lead Engineer @ SecureNode Hosting LTD
