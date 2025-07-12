@@ -22,9 +22,8 @@
 
 ## **🌐 Current Servers**
 - 👑 Owner / 🛠️ Head of Development @ KineticMC Networks
+- 🛡️ Community Coordinator @ SkyVault Networks
 - 🛡️ Community Coordinator / 🔧 Developer @ *Hidden* (FiveM)
-- 🛡️ Community Coordinator @ MineSurge
-- 🛡️ Community Coordinator @ BunnyMC
 - 🔧 Developer @ *Hidden* (Minecraft)
 
 ## **🌟 Past Servers**
