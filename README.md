@@ -2,14 +2,11 @@
 
 ## ❓ What can i do?
 - 🔧 Developer,
-- 🛠️ Lead Developer,
 - 💼 Staff Management,
 - ⭐️ Administration,
 - 🛡️ Community Coordination,
 - ☀️ Human Resources,
-- 🔧 Systems Operator,
-- 🐧 System Administration,
-- 🌐 Data Protection.
+- 🌐 Data Protection Officer.
 
 ## **ℹ️ Information**
 - ⚠️ Please **DO NOT** contact me regarding KineticMC Punishment Appeals, Appeal link is below.
@@ -24,16 +21,13 @@
 - 👑 Owner / 🛠️ Head of Development @ KineticMC Networks
 - 🛡️ Community Coordinator @ SkyVault Networks
 - 🛡️ Community Coordinator / 🔧 Developer @ *Hidden* (FiveM)
-- 🔧 Developer @ *Hidden* (Minecraft)
+- 🔧 Developer @ *Hidden* (FiveM)
 
 ## **🌟 Past Servers**
 - 👑 Ex CEO / Lead Engineer @ SecureNode Hosting LTD
-- 👑 Ex COO / Engineer @ Byte Hosting
 - 🔧 Ex Owner / Head Of Development @ ElixirPvP (Minecraft)
 - 🔧 Ex Owner / Human Resource @ Athmos Roleplay (Garrys Mod)
 - 🔧 Ex Human Resource @ Vanguard Servers (Garrys Mod)
-- 🔧 Ex Developer @ Head Administrator Zarp Gaming (Garrys Mod)
-- 🔧 Ex Developer / Head Administrator @ Drew's Community (Garrys Mod)
 - 🔧 Ex Developer / Administrator @ Hedex (Garrys Mod)
 - 🔧 Ex Developer / HR @ BlocksVille MC (Minecraft)
 - 🔧 Ex Developer @ Alot of other servers.
@@ -43,9 +37,3 @@
 ## 🔗 My Links
 - [GitHub](https://github.com/PugwuggDev)
 - [My Website](https://pugwugg.dev/) *Coming Soon*
-- [KineticMC Website](https://kineticmc.net) *Currently Down*
-- [KineticMC Discord](https://discord.gg/kineticmc)
-- [KineticMC Status](status.kineticmc.net)
-- [KineticMC Applications](https://applications.kineticmc.net)
-- [KineticMC Changelogs](https://changelog.kineticmc.net) 
-- [KineticMC Appeals](https://appeal.kineticmc.net)
