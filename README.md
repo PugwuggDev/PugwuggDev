@@ -18,10 +18,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pugwuggdev&theme=dark" alt="pugwuggdev" /></p>
 
 ## **🌐 Current Servers**
-- 👑 Owner / 🛠️ Head of Development @ KineticMC Networks
-- 🛡️ Community Coordinator @ SkyVault Networks
-- 🛡️ Community Coordinator / 🔧 Developer @ *Hidden* (FiveM)
-- 🔧 Developer @ *Hidden* (FiveM)
+- 🛡️ Community Management @ XXX (FiveM)
 
 ## **🌟 Past Servers**
 - 👑 Ex CEO / Lead Engineer @ SecureNode Hosting LTD
