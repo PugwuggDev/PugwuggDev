@@ -9,18 +9,20 @@
 - 🌐 Data Protection Officer.
 
 ## **ℹ️ Information**
-- ⚠️ Please **DO NOT** contact me regarding KineticMC Punishment Appeals, Appeal link is below.
+- ⚠️ Please **DO NOT** contact me regarding Punishment Appeals
 - 🌱 I’m currently **NOT** accepting any more commissions / server work
 - 👀 I Love Coding & Twitch Moderating
 - ⚡ Fun fact: The world is round!
-- 📫 Contact me via discord **Pugwugg_Dev**
+- 📫 Contact me via discord **PugwuggDev**
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pugwuggdev&theme=dark" alt="pugwuggdev" /></p>
 
 ## **🌐 Current Servers**
-- 🛡️ Community Management @ XXX (FiveM)
+- 🛡️ Community Management @ Regal Roleplay (FiveM)
 
 ## **🌟 Past Servers**
+
+- 🛡️ Ex Support @ Time2 Roleplay (FiveM)
 - 👑 Ex CEO / Lead Engineer @ SecureNode Hosting LTD
 - 🔧 Ex Owner / Head Of Development @ ElixirPvP (Minecraft)
 - 🔧 Ex Owner / Human Resource @ Athmos Roleplay (Garrys Mod)
