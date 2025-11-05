@@ -15,7 +15,7 @@
 - ⚡ Fun fact: The world is round!
 - 📫 Contact me via discord **PugwuggDev**
 
-<p><img align="center" src="https://streak-stats.demolab.com?user=PugwuggDev&theme=dark&hide_border=true" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pugwuggdev&theme=dark" alt="pugwuggdev" /></p>
 
 ## **🌐 Current Servers**
 - 🛡️ Community Management @ Regal Roleplay (FiveM)
