@@ -8,6 +8,9 @@
 - ☀️ Human Resources,
 - 🌐 Data Protection Officer.
 
+## 🔗 My Links
+- [My Website](https://pugwugg.dev/)
+
 ## **ℹ️ Information**
 - ⚠️ Please **DO NOT** contact me regarding Punishment Appeals
 - 🌱 I’m currently **NOT** accepting any more commissions / server work
@@ -33,7 +36,3 @@
 - 🔧 Ex Developer @ Alot of other servers.
 - ⭐️ Ex Head Administrator @ Unreal Roleplay (Garrys Mod)
 - ℹ️ Ex Moderator @ SunnysideRP (Garrys Mod)
-
-## 🔗 My Links
-- [GitHub](https://github.com/PugwuggDev)
-- [My Website](https://pugwugg.dev/) *Coming Soon*
