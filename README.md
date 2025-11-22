@@ -21,7 +21,7 @@
 
 ## **🌐 Current Servers**
 - 🛡️ Community Management @ [Regal Roleplay](https://regalroleplay.com) (FiveM)
-- ⭐️ Staff @ [HostByte](https:/hostbyte.net) (Hosting)
+- ⭐️ Staff @ [HostByte](https://hostbyte.net) (Hosting)
 
 ## **🌟 Past Servers**
 
