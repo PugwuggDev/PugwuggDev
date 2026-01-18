@@ -20,12 +20,12 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pugwuggdev&theme=dark" alt="pugwuggdev" /></p>
 
 ## **🌐 Current Servers**
-- 🛡️ Community Management @ [Regal Roleplay](https://regalroleplay.com) (FiveM)
 - ⭐️ Staff @ [HostByte](https://hostbyte.net) (Hosting)
 
 ## **🌟 Past Servers**
 
 - 🛡️ Ex Support @ Time2 Roleplay (FiveM)
+- 🛡️ Ex Community Management @ Regal Roleplay (FiveM)
 - 👑 Ex CEO / Lead Engineer @ SecureNode Hosting LTD (Hosting)
 - 🔧 Ex Owner / Head Of Developemt @ KineticMC (Minecraft)
 - 🔧 Ex Owner / Head Of Development @ ElixirPvP (Minecraft)
