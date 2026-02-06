@@ -7,21 +7,19 @@
 - 🛡️ Community Coordination,
 - ☀️ Human Resources
 
+## **🌐 Current Servers / Work**
+- 🛡️ Management / Head Of Development @ [Afterlight Roleplay](https://afterlightrp.net) (FiveM)
+- ⭐️ Staff @ [HostByte](https://hostbyte.net) (Hosting)
+
 ## 🔗 My Links
 - [My Website](https://pugwugg.dev/)
 
 ## **ℹ️ Information**
-- ⚠️ Please **DO NOT** contact me regarding Punishment Appeals
-- 🌱 I’m currently **NOT** accepting any more commissions / server work
-- 👀 I Love Coding & Twitch Moderating
-- ⚡ Fun fact: The world is round!
+- ⚠️ Please **DO NOT** contact me regarding Punishment Appeals open a ticket.
+- 🌱 I’m currently **NOT** accepting any more commissions / server work.
 - 📫 Contact me via discord **PugwuggDev**
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pugwuggdev&theme=dark" alt="pugwuggdev" /></p>
-
-## **🌐 Current Servers**
-- 🛡️ Management / Head Of Development @ [Afterlight Roleplay](https://afterlightrp.net) (FiveM)
-- ⭐️ Staff @ [HostByte](https://hostbyte.net) (Hosting)
 
 ## **🌟 Past Servers**
 
@@ -32,6 +30,5 @@
 - 🔧 Ex Owner / Head Of Development @ ElixirPvP (Minecraft)
 - 🔧 Ex Owner / Developer @ Athmos Roleplay (Garrys Mod)
 - 🔧 Ex Developer / Administrator @ Hedex (Garrys Mod)
-- 🔧 Ex Developer / HR @ BlocksVille MC (Minecraft)
 - ℹ️ Ex Moderator @ SunnysideRP (Garrys Mod)
 - 🔧 Ex Developer @ Alot of other servers...
