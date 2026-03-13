@@ -5,7 +5,6 @@
 - 💼 Staff Management,
 - ⭐️ Administration,
 - 🛡️ Community Coordination,
-- ☀️ Human Resources
 
 ## **🌐 Current Servers / Work**
 - 🛡️ Management / Head Of Development @ [Afterlight Roleplay](https://afterlightrp.net) (FiveM)
