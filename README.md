@@ -8,7 +8,7 @@
 
 ## **🌐 Current Servers / Work**
 - 🛡️ Management / Head Of Development @ [Afterlight Roleplay](https://afterlightrp.net) (FiveM)
-- ⭐️ Staff @ [HostByte](https://hostbyte.net) (Hosting)
+- ⭐️ Management @ [HostByte](https://hostbyte.net) (Hosting)
 
 ## 🔗 My Links
 - [My Website](https://pugwugg.dev/)
