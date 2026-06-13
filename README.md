@@ -7,7 +7,6 @@
 - 🛡️ Community Coordination,
 
 ## **🌐 Current Servers / Work**
-- 🛡️ Management / Head Of Development @ [Afterlight Roleplay](https://afterlightrp.net) (FiveM)
 - ⭐️ Management @ [HostByte](https://hostbyte.net) (Hosting)
 
 ## 🔗 My Links
@@ -22,12 +21,4 @@
 
 ## **🌟 Past Servers**
 
-- 🛡️ Ex Support @ Time2 Roleplay (FiveM)
-- 🛡️ Ex Community Management @ Regal Roleplay (FiveM)
-- 👑 Ex CEO / Lead Engineer @ SecureNode Hosting LTD (Hosting)
-- 🔧 Ex Owner / Head Of Developemt @ KineticMC (Minecraft)
-- 🔧 Ex Owner / Head Of Development @ ElixirPvP (Minecraft)
-- 🔧 Ex Owner / Developer @ Athmos Roleplay (Garrys Mod)
-- 🔧 Ex Developer / Administrator @ Hedex (Garrys Mod)
-- ℹ️ Ex Moderator @ SunnysideRP (Garrys Mod)
-- 🔧 Ex Developer @ Alot of other servers...
+*Moved to my website*
